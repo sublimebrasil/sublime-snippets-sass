@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min(${1:\$numbers...})]]></content>
+	<tabTrigger>min</tabTrigger>
+	<description>min()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

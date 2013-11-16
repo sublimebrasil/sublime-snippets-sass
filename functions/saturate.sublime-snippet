@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[saturate(${1:\$color}, ${2:\$amount})]]></content>
+	<tabTrigger>saturate</tabTrigger>
+	<description>saturate()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

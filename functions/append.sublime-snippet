@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[append(${1:\$list}, ${2:\$value}, ${3:[auto/comma/space]})]]></content>
+	<tabTrigger>append</tabTrigger>
+	<description>append()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

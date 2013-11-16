@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[round(${1:\$value})]]></content>
+	<tabTrigger>round</tabTrigger>
+	<description>round()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

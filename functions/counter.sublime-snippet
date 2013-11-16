@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[counter(${1:\$args...})]]></content>
+	<tabTrigger>counter</tabTrigger>
+	<description>counter()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

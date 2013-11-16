@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hue(${1:\$color})]]></content>
+	<tabTrigger>hue</tabTrigger>
+	<description>hue()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

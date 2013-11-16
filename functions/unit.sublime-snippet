@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unit(${1:\$number})]]></content>
+	<tabTrigger>unit</tabTrigger>
+	<description>unit()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

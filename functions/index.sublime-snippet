@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[index(${1:\$list}, ${2:\$value})]]></content>
+	<tabTrigger>index</tabTrigger>
+	<description>index()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

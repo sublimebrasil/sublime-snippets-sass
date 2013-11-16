@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[change-color(${1:\$color}, ${2:[\$red]}, ${3:[\$green]}, ${4:[\$blue]}, ${5:[\$hue]}, ${6:[\$saturation]}, ${7:[\$lightness]}, ${7:[\$alpha]})]]></content>
+	<tabTrigger>change-color</tabTrigger>
+	<description>change-color()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

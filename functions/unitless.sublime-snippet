@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unitless(${1:\$number})]]></content>
+	<tabTrigger>unitless</tabTrigger>
+	<description>unitless()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

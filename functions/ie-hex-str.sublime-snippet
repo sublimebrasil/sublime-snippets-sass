@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ie-hex-str(${1:\$color})]]></content>
+	<tabTrigger>ie-hex-str</tabTrigger>
+	<description>ie-hex-str()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

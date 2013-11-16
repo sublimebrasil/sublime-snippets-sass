@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lighten(${1:\$color}, ${2:\$amount})]]></content>
+	<tabTrigger>lighten</tabTrigger>
+	<description>lighten()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
