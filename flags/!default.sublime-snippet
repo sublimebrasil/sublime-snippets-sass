@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[!default]]></content>
+	<tabTrigger>default</tabTrigger>
+	<description>!default</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
