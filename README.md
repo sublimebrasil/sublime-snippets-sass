@@ -1,4 +1,4 @@
-# Sass Snippets for Sublime [![Build Status](https://secure.travis-ci.org/sassbrasil/sublime-snippets-sass.png?branch=master)](https://travis-ci.org/sassbrasil/sublime-snippets-sass)
+# Sass Snippets for Sublime [![Build Status](https://secure.travis-ci.org/sublimebrasil/sublime-snippets-sass.png?branch=master)](https://travis-ci.org/sublimebrasil/sublime-snippets-sass)
 
 ## Install
 
@@ -515,6 +515,8 @@ counters(${1:$args...})
 
 ## Changelog
 
+* 16/11/2013 - First Release
+
 ## License
 
-[MIT License](http://sassbrasil.mit-license.org/) © Sass Brasil
+[MIT License](http://sublimebrasil.mit-license.org/) © Sublime Brasil
