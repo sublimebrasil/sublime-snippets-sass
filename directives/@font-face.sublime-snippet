@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[@font-face {
+	font-family:$1;
+    src:url($2);$0
+}]]></content>
+	<tabTrigger>font</tabTrigger>
+	<description>@font-face</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
