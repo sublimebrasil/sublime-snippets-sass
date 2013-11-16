@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[@mixin $1($2) {
+	$3
+}$0]]></content>
+	<tabTrigger>mixin</tabTrigger>
+	<description>@mixin</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

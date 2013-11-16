@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[\$i:${1:10};
+@while \$i > ${2:8} {
+	.#{\$i}$3 {
+		$4
+	}
+}$0]]></content>
+	<tabTrigger>while</tabTrigger>
+	<description>@while</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
