@@ -1,10 +1,12 @@
-# Sass Snippets for Sublime [![Build Status](https://secure.travis-ci.org/sublimebrasil/sublime-snippets-sass.png?branch=master)](https://travis-ci.org/sublimebrasil/sublime-snippets-sass)
+# Sass Snippets for Sublime
 
 ## Install
 
-To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **Sassy Snippets**. If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation).
+To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **Sassy Snippets**.
 
 Instead, you can download the package and put it manually inside your `Packages` directory. Remember that should work but will not update automatically.
+
+> Note: we recommend the ["Syntax Highlighting for Sass"](https://github.com/P233/Syntax-highlighting-for-Sass) plugin for syntax highlight.
 
 ## List of Snippets
 
@@ -512,6 +514,16 @@ counters(${1:$args...})
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
+
+## Authors
+
+**Claudio Sanches**
+    Twitter : [@claudiosmweb](https://twitter.com/claudiosmweb)
+    Github  : [https://github.com/claudiosmweb](https://github.com/claudiosmweb)
+
+**Vitor Britto**
+    Twitter : [@vitorbritto](https://twitter.com/vitorbritto)
+    Github  : [https://github.com/vitorbritto](https://github.com/vitorbritto)
 
 ## Changelog
 
