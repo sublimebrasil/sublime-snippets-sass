@@ -1,5 +1,7 @@
 # Sass Snippets for Sublime
 
+>[Instruções em português](README_pt-BR.md)
+
 ## Install
 
 To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **Sassy Snippets**.
