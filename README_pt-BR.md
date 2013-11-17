@@ -517,13 +517,10 @@ counters(${1:$args...})
 
 ## Autores
 
-**Claudio Sanches**
-    Twitter : [@claudiosmweb](https://twitter.com/claudiosmweb)
-    Github  : [https://github.com/claudiosmweb](https://github.com/claudiosmweb)
-
-**Vitor Britto**
-    Twitter : [@vitorbritto](https://twitter.com/vitorbritto)
-    Github  : [https://github.com/vitorbritto](https://github.com/vitorbritto)
+| Nome | Twitter | Github |
+|:----:|:--------:|:-----:|
+| **Claudio Sanches** | [@claudiosmweb](https://twitter.com/claudiosmweb) | [claudiosmweb](https://github.com/claudiosmweb) |
+| **Vitor Britto** | [@vitorbritto](https://twitter.com/vitorbritto) | [vitorbritto](https://github.com/vitorbritto) |
 
 ## Histórico
 
