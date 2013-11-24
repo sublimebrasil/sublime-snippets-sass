@@ -1,0 +1,16 @@
+CHANGELOG - SASS Snippets v1.1.0
+================================
+
+CHANGES/FIXES
+-------------
+- New maintainers
+- Added documentation
+- Added snippets
+
+
+Support
+=======
+
+Please direct any feedback to https://github.com/sublimebrasil/sublime-snippets-sass.
+
+Thank you for your support.
