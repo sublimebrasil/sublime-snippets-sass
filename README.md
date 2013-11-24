@@ -2,9 +2,11 @@
 
 >[Instruções em português](README_pt-BR.md)
 
+> We thank [@mrmartineau](https://github.com/mrmartineau) for kindly providing replacement plugin and [@FichteFoll](https://github.com/FichteFoll) for the support.
+
 ## Install
 
-To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **Sassy Snippets**.
+To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **SASS Snippets**.
 
 Instead, you can download the package and put it manually inside your `Packages` directory. Remember that should work but will not update automatically.
 
@@ -517,16 +519,6 @@ counters(${1:$args...})
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-## Authors
-
-| Name | Twitter | Github |
-|:----:|:--------:|:-----:|
-| **Claudio Sanches** | [@claudiosmweb](https://twitter.com/claudiosmweb) | [claudiosmweb](https://github.com/claudiosmweb) |
-| **Vitor Britto** | [@vitorbritto](https://twitter.com/vitorbritto) | [vitorbritto](https://github.com/vitorbritto) |
-
-## Changelog
-
-* 16/11/2013 - First Release
 
 ## License
 

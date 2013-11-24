@@ -1,5 +1,7 @@
 # Sass Snippets para Sublime
 
+> Agradecemos ao [@mrmartineau](https://github.com/mrmartineau) por ter gentilmente cedido a reposição deste plugin e ao [@FichteFoll](https://github.com/FichteFoll) pelo suporte.
+
 ## Instalação
 
 Para instalar através do [Package Control](http://wbond.net/sublime_packages/package_control), procure por **Sassy Snippets**.
@@ -515,16 +517,6 @@ counters(${1:$args...})
 4. Faça o `push` para o branch: `git push origin my-new-feature`
 5. Faça o `pull request`
 
-## Autores
-
-| Nome | Twitter | Github |
-|:----:|:--------:|:-----:|
-| **Claudio Sanches** | [@claudiosmweb](https://twitter.com/claudiosmweb) | [claudiosmweb](https://github.com/claudiosmweb) |
-| **Vitor Britto** | [@vitorbritto](https://twitter.com/vitorbritto) | [vitorbritto](https://github.com/vitorbritto) |
-
-## Histórico
-
-* 16/11/2013 - Lançamento inicial
 
 ## Licença
 
